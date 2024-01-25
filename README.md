@@ -63,4 +63,6 @@ This Password Manager and Generator is licensed under the MIT License - see the 
 
 Thank you to the open-source community for providing libraries and tools that make projects like this possible.
 
+Thanks to Dr. Angela Yu who taught me Python Language. 
+
 Feel free to tailor this README to your specific project and include any additional details or customizations that you find relevant.
