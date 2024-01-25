@@ -33,6 +33,9 @@ Follow these steps to set up and use the Password Manager and Generator:
    ```bash
    python main.py
    ```
+## Screenshot
+
+![Password manager @yottajunaid 1_25_2024 4_06_16 PM](https://github.com/yottajunaid/passwordbox/assets/114429773/d8da2445-3801-44ac-b5a0-80d46f3dca18)
 
 ## Usage
 
