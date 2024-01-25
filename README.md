@@ -21,22 +21,17 @@ Follow these steps to set up and use the Password Manager and Generator:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/password-manager.git
+   git clone https://github.com/yottajunaid/passwordbox.git
    ```
 
 2. **Navigate to the Directory**:
    ```bash
-   cd password-manager
-   ```
-
-3. **Install Dependencies**:
-   ```bash
-   pip install -r requirements.txt
+   cd passwordbox
    ```
 
 4. **Run the Application**:
    ```bash
-   python password_manager.py
+   python main.py
    ```
 
 ## Usage
